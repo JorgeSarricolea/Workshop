@@ -1,1 +1,1 @@
-Jorge Sarricolea
+Taller de Git y GitHub
